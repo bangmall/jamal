@@ -1,2 +1,2 @@
 print("hallo word")
-x = 10
+x = 100
